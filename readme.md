@@ -14,7 +14,7 @@ File names are composed of the following elements:
 [file category] [product name] [project name] [branch name]
 ```
 
-Commonly used categories include:
+Commonly used file categories include:
 
 * Wires — low-fidelity wireframes & sketches;
 * Visual — high-fidelity mockups;
@@ -24,10 +24,10 @@ Commonly used categories include:
 ### Examples
 
 ```
-Wires Acme Web Landing 2020-01
-Visual Acme Web Account 2020-01
-Library Acme Web Icons Main
-System Acme Web Main
+Wires Framez Web Landing 2020-01
+Visual Framez Web Account 2020-01
+Library Framez Web Icons Main
+System Framez Web Main
 ```
 
 ## Frames
