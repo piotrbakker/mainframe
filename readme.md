@@ -4,7 +4,7 @@ Framez is a framework for naming various product design artefacts in Figma.
 
 ## Projects
 
-In progress...
+Project names are either specific, related to a narrowly focused aspect of a product’s design (e.g., onboarding, activation, navigation, etc.) or general, suitable for covering a wide-range of design disciplines (e.g., information architecture, usability, interaction design, etc.). Project names follow [title case formatting rules](https://en.wikipedia.org/wiki/Title_case).
 
 ## Files
 
