@@ -36,7 +36,16 @@ Page names follow [title case formatting rules](https://en.wikipedia.org/wiki/Ti
 
 ## Frames
 
-In progress...
+Where possible, Frames should inherit the corresponding page names, appended by key technical information, such as width, aspect ratio, grid properties, and round of iterations. Sequential numbering should be avoided to reduce clutter. 
+
+### Examples
+
+```
+Framez Newsletter 768px Col-12 r1
+Framez Newsletter 1024px Col-12 r2
+Framez iOS App 4.7in Col-4 r1
+Framez iOS App 5.8in Col-4 r2
+```
 
 ## Styles
 
