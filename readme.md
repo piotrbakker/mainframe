@@ -30,6 +30,10 @@ Library Framez Web Icons Main
 System Framez Web Main
 ```
 
+## Pages
+
+Page names follow [title case formatting rules](https://en.wikipedia.org/wiki/Title_case).
+
 ## Frames
 
 In progress...
