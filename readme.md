@@ -1,6 +1,6 @@
 # Framez
 
-Framez is a framework for naming various product design artefacts in Figma.
+Framez is a framework for naming product design artifacts in Figma.
 
 ## Projects
 
