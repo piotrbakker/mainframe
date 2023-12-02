@@ -29,7 +29,25 @@ Commonly used file categories include:
 * Library — separate shared style & component repositories;
 * System — multiple shared style & component repositories organized into a single file.
 
-### Examples
+## Pages
+
+In progress...
+
+## Frames
+
+Where possible, Frames should inherit the corresponding page names, appended by key technical information, such as width, aspect ratio, grid properties, and round of iterations.
+
+## Styles
+
+In progress...
+
+## Components
+
+In progress...
+
+## Examples
+
+### Files
 
 ```
 Wires - Framez - Web - Landing 2023-01
@@ -39,15 +57,7 @@ Library - Framez - Icons - Main
 System - Framez - Web - Main
 ```
 
-## Pages
-
-In progress...
-
-## Frames
-
-Where possible, Frames should inherit the corresponding page names, appended by key technical information, such as width, aspect ratio, grid properties, and round of iterations.
-
-### Examples
+### Frames
 
 ```
 Framez - Newsletter - 768px - Col-12 r1
@@ -55,14 +65,6 @@ Framez - Newsletter - 1024px - Col-12 r2
 Framez - iOS - 4.7in - Col-4 r1
 Framez - iOS - 5.8in - Col-4 r2
 ```
-
-## Styles
-
-In progress...
-
-## Components
-
-In progress...
 
 ## License
 
