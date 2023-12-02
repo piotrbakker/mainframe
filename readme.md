@@ -35,7 +35,7 @@ In progress...
 
 ## Frames
 
-Where possible, Frames should inherit the corresponding page names, appended by key technical information, such as width, aspect ratio, grid properties, and round of iterations.
+[Top-level frames](https://help.figma.com/hc/en-us/articles/360039959014) should include product name, appended by key technical information, such as product type, dimensions, layout grid settings.
 
 ## Styles
 
