@@ -2,16 +2,24 @@
 
 Framez is a framework for naming product design artifacts in Figma.
 
+## Principles
+
+* In general, follow [title case formatting rules](https://en.wikipedia.org/wiki/Title_case).
+* Separate title values with hyphens.
+* Separate component and style values with slashes.
+* Express dates according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD] or [YYYY]-[MM].
+* Avoid sequential numbering to reduce clutter. 
+
 ## Projects
 
-Project names are either specific, related to a narrowly focused aspect of a product’s design (e.g., onboarding, activation, navigation, etc.) or general, suitable for covering a wide-range of design disciplines (e.g., information architecture, usability, interaction design, etc.). Project names follow [title case formatting rules](https://en.wikipedia.org/wiki/Title_case).
+Project names are either specific, related to a narrowly focused aspect of a product’s design (e.g., onboarding, activation, navigation, etc.) or general, suitable for covering a wide-range of design disciplines (e.g., information architecture, usability, interaction design, etc.).
 
 ## Files
 
 File names are composed of the following elements:
 
 ```
-[file category] [product name] [project name] [branch name]
+[File Category] - [Product Name] - [Project Name] - [Branch Name]
 ```
 
 Commonly used file categories include:
@@ -24,27 +32,28 @@ Commonly used file categories include:
 ### Examples
 
 ```
-Wires Framez Web Landing 2020-01
-Visual Framez Web Account 2020-01
-Library Framez Web Icons Main
-System Framez Web Main
+Wires - Framez - Web - Landing 2023-01
+Visual - Framez - Web - Account 2023-01
+Visual - Framez - Mobile - Checkout 2023-01
+Library - Framez - Icons - Main
+System - Framez - Web - Main
 ```
 
 ## Pages
 
-Page names follow [title case formatting rules](https://en.wikipedia.org/wiki/Title_case).
+In progress...
 
 ## Frames
 
-Where possible, Frames should inherit the corresponding page names, appended by key technical information, such as width, aspect ratio, grid properties, and round of iterations. Sequential numbering should be avoided to reduce clutter. 
+Where possible, Frames should inherit the corresponding page names, appended by key technical information, such as width, aspect ratio, grid properties, and round of iterations.
 
 ### Examples
 
 ```
-Framez Newsletter 768px Col-12 r1
-Framez Newsletter 1024px Col-12 r2
-Framez iOS App 4.7in Col-4 r1
-Framez iOS App 5.8in Col-4 r2
+Framez - Newsletter - 768px - Col-12 r1
+Framez - Newsletter - 1024px - Col-12 r2
+Framez - iOS - 4.7in - Col-4 r1
+Framez - iOS - 5.8in - Col-4 r2
 ```
 
 ## Styles
