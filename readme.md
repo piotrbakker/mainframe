@@ -26,7 +26,7 @@ Libraries > Components / Styles / Variables
 
 ## Projects
 
-Project names are either specific, related to a narrowly focused aspect of a product’s design (e.g., onboarding, activation, navigation, etc.) or general, suitable for covering a wide-range of design disciplines (e.g., information architecture, usability, interaction design, etc.).
+Organize `Projects` by your team’s product development workflow or organizational structure. For example, by stages of the user journey or design process, or more broadly by product type or platform.
 
 ## Files
 
