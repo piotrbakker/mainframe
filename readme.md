@@ -10,7 +10,7 @@ Framez is a framework for naming product design artifacts in Figma.
 * Express dates according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD] or [YYYY]-[MM].
 * Avoid sequential numbering to reduce clutter.
 
-## Figma’s File Structure Overview
+## Figma’s File Structure
 
 Figma uses the following file structure:
 
