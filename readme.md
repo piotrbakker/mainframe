@@ -8,7 +8,21 @@ Framez is a framework for naming product design artifacts in Figma.
 * Separate title values with hyphens.
 * Separate component and style values with slashes.
 * Express dates according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD] or [YYYY]-[MM].
-* Avoid sequential numbering to reduce clutter. 
+* Avoid sequential numbering to reduce clutter.
+
+## Structure
+
+Figma uses the following data structure:
+
+```
+Organization > Workspaces > Teams > Projects > Files > Pages > Frames
+```
+
+In addition, `Components`, `Styles`, and `Variables` can be published as `Libraries` for access across different `Files`.
+
+```
+Libraries > Components / Styles / Variables
+```
 
 ## Projects
 
