@@ -18,7 +18,7 @@ Figma uses the following data structure:
 Organization > Workspaces > Teams > Projects > Files > Pages > Frames
 ```
 
-In addition, `Components`, `Styles`, and `Variables` can be published as `Libraries` for access across different `Files`.
+In addition, `Components`, `Styles`, and `Variables` can be published as `Libraries` for access across different `Files`:
 
 ```
 Libraries > Components / Styles / Variables
