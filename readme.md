@@ -1,6 +1,6 @@
-# Framez
+# Mainframe
 
-Framez is a framework for naming product design artifacts in Figma.
+Mainframe is a framework for naming product design artifacts in Figma.
 
 ## Principles
 
