@@ -12,10 +12,6 @@ Organization > Workspaces > Teams > Projects > Files > Pages > Frames
 
 In addition, `Components`, `Styles`, and `Variables` can be published as `Libraries` for access across different `Files`:
 
-```
-Libraries > Components / Styles / Variables
-```
-
 * `Components` are collections of `Variant Properties` that form a single element in a `Library`.
 * `Styles` are collections of presentation properties that can be applied to different elements in a `File` or `Library`.
 * `Variables` are fixed values, like hexadecimal color codes or measures of size, that can be reused across any `File` or `Library`.
