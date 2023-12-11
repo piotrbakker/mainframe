@@ -17,8 +17,8 @@ Libraries > Components / Styles / Variables
 ```
 
 * `Components` are collections of `Variant Properties` that form a single element in a `Library`.
-* `Styles` are collections of presentation properties that can be applied to different elements in a `File` or `Libary`.
-* `Variables` are fixed values, like hexadecimal color codes or measures of size, that can be reused across any `File` or `Libary`.
+* `Styles` are collections of presentation properties that can be applied to different elements in a `File` or `Library`.
+* `Variables` are fixed values, like hexadecimal color codes or measures of size, that can be reused across any `File` or `Library`.
 
 ## Naming Convention
 
