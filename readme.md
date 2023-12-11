@@ -45,6 +45,10 @@ File names are composed of the following elements:
 
 [Top-level frames](https://help.figma.com/hc/en-us/articles/360039959014) should include product name, appended by key technical information, such as product type, dimensions, layout grid settings.
 
+## Components
+
+Use a semantic naming convention to give `Components` and `Variant Properties` descriptive names that convey function and meaning. Follow a consistent naming structure that aligns with your codebase.
+
 ## License
 
 Mainframe is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
