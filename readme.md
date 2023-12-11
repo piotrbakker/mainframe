@@ -9,6 +9,7 @@ Mainframe is a framework for naming product design artifacts in Figma.
 * Separate component and style values with slashes.
 * Express dates according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD] or [YYYY]-[MM].
 * Avoid sequential numbering to reduce clutter.
+* Use clear, plain language that everyone can understand. 
 
 ## Figma’s File Structure
 
