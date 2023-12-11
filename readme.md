@@ -39,7 +39,7 @@ File names are composed of the following elements:
 
 ## Frames
 
-[Top-level frames](https://help.figma.com/hc/en-us/articles/360039959014) should include product name, appended by key technical information, such as product type, dimensions, layout grid settings.
+Top-level `Frames`, i.e, Frames placed directly on the `Canvas`, should include values such as product name and key technical information, such as product type, screen dimensions, and layout grid settings. Nested Frames should follow a semantic naming convention where applicable.
 
 ## Components
 
