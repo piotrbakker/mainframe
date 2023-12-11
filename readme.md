@@ -25,6 +25,10 @@ In addition, `Components`, `Styles`, and `Variables` can be published as `Librar
 Libraries > Components / Styles / Variables
 ```
 
+* `Components` are collections of `Variant Properties` that form a single element in a `Library`.
+* `Styles` are collections of presentation properties that can be applied to different elements in a `File` or `Libary`.
+* `Variables` are fixed values, like hexadecimal color codes or measures of size, that can be reused across any `File` or `Libary`.
+
 ## Projects
 
 Organize `Projects` by your team’s product development workflow or organizational structure. For example, by stages of the user journey or design process, or more broadly by product type or platform.
