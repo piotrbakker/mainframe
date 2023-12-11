@@ -1,15 +1,6 @@
 # Mainframe
 
-Mainframe is a framework for naming product design artifacts in Figma.
-
-## Principles
-
-* In general, follow [title case formatting rules](https://en.wikipedia.org/wiki/Title_case).
-* Separate title values with hyphens.
-* Separate component and style values with slashes.
-* Express dates according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD] or [YYYY]-[MM].
-* Avoid sequential numbering to reduce clutter.
-* Use clear, plain language that everyone can understand. 
+Mainframe is a framework for organizing product design files in Figma. 
 
 ## Figma’s File Structure
 
@@ -28,6 +19,15 @@ Libraries > Components / Styles / Variables
 * `Components` are collections of `Variant Properties` that form a single element in a `Library`.
 * `Styles` are collections of presentation properties that can be applied to different elements in a `File` or `Libary`.
 * `Variables` are fixed values, like hexadecimal color codes or measures of size, that can be reused across any `File` or `Libary`.
+
+## Naming Convention
+
+* In general, follow [title case formatting rules](https://en.wikipedia.org/wiki/Title_case).
+* Separate title values with hyphens.
+* Separate `Component` and `Style` values with slashes.
+* Express dates according to the [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) notation: [YYYY]-[MM]-[DD] or [YYYY]-[MM].
+* Avoid sequential numbering to reduce clutter.
+* Use clear, plain language that everyone can understand.
 
 ## Projects
 
