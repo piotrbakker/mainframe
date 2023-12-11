@@ -68,22 +68,22 @@ In progress...
 ### Files
 
 ```
-Wires - Framez - Web - Landing 2023-01
-Visual - Framez - Web - Account 2023-01
-Visual - Framez - Mobile - Checkout 2023-01
-Library - Framez - Icons - Main
-System - Framez - Web - Main
+Wires - Mainframe - Web - Landing 2023-01
+Visual - Mainframe - Web - Account 2023-01
+Visual - Mainframe - Mobile - Checkout 2023-01
+Library - Mainframe - Icons - Main
+System - Mainframe - Web - Main
 ```
 
 ### Frames
 
 ```
-Framez - Newsletter - 768px - Col-12 r1
-Framez - Newsletter - 1024px - Col-12 r2
-Framez - iOS - 4.7in - Col-4 r1
-Framez - iOS - 5.8in - Col-4 r2
+Mainframe - Newsletter - 768px - Col-12 r1
+Mainframe - Newsletter - 1024px - Col-12 r2
+Mainframe - iOS - 4.7in - Col-4 r1
+Mainframe - iOS - 5.8in - Col-4 r2
 ```
 
 ## License
 
-Framez is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
+Mainframe is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
