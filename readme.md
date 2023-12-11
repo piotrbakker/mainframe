@@ -41,53 +41,9 @@ File names are composed of the following elements:
 [File Category] - [Product Name] - [Project Name] - [Branch Name]
 ```
 
-Commonly used file categories include:
-
-* Wires — low-fidelity wireframes & sketches;
-* Visual — high-fidelity mockups;
-* Library — separate shared style & component repositories;
-* System — multiple shared style & component repositories organized into a single file.
-
-## Pages
-
-In progress...
-
 ## Frames
 
 [Top-level frames](https://help.figma.com/hc/en-us/articles/360039959014) should include product name, appended by key technical information, such as product type, dimensions, layout grid settings.
-
-## Styles
-
-In progress...
-
-## Components
-
-In progress...
-
-## Libraries
-
-In progress...
-
-## Examples
-
-### Files
-
-```
-Wires - Mainframe - Web - Landing 2023-01
-Visual - Mainframe - Web - Account 2023-01
-Visual - Mainframe - Mobile - Checkout 2023-01
-Library - Mainframe - Icons - Main
-System - Mainframe - Web - Main
-```
-
-### Frames
-
-```
-Mainframe - Newsletter - 768px - Col-12 r1
-Mainframe - Newsletter - 1024px - Col-12 r2
-Mainframe - iOS - 4.7in - Col-4 r1
-Mainframe - iOS - 5.8in - Col-4 r2
-```
 
 ## License
 
