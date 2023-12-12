@@ -29,6 +29,10 @@ In addition, `Components`, `Styles`, and `Variables` can be published as `Librar
 
 Organize `Projects` by your team’s product development workflow or organizational structure. For example, by stages of the user journey or design process, or more broadly by product type or platform.
 
+## Pages
+
+Use `Pages` to separate major sections or user flows within your product. 
+
 ## Files
 
 File names are composed of the following elements:
