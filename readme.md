@@ -35,7 +35,7 @@ Use `Pages` to separate major sections or user flows within your product.
 
 ## Files
 
-File names are composed of the following elements:
+Establish a consistent file naming convention to make it easy to identify and locate specific files. For example:
 
 ```
 [File Category] - [Product Name] - [Project Name] - [Branch Name]
