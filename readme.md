@@ -43,7 +43,7 @@ Establish a consistent file naming convention to make it easy to identify and lo
 
 ## Frames
 
-Top-level `Frames`, i.e, Frames placed directly on the `Canvas`, should include values such as product name and key technical information, such as product type, screen dimensions, and layout grid settings. Nested `Frames` should follow a semantic naming convention where applicable.
+_Top-level Frames_, i.e, Frames placed directly on the `Canvas`, should include values such as product name and key technical information, such as product type, screen dimensions, and layout grid settings. _Nested Frames_ should follow a semantic naming convention where applicable.
 
 ## Components
 
