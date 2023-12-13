@@ -45,6 +45,9 @@ Use `Pages` to separate major sections or user flows within your product.
 
 _Top-level Frames_, i.e, Frames placed directly on the `Canvas`, should include values such as product name and key technical information, such as product type, screen dimensions, and layout grid settings. _Nested Frames_ should follow a semantic naming convention where applicable.
 
+## Libraries
+Set up your `Library` in a single or separate `Files`. Consider breaking up your `Library` into separate `Files` if you need to support multiple platforms, themes, products, brands or whether access to certain `Componenets` or `Styles` should be restricted to specific collaborators.
+
 ## Components
 
 Use a semantic naming convention to give `Components` and `Variant Properties` descriptive names that convey function and meaning. Follow a consistent naming structure that aligns with your codebase.
