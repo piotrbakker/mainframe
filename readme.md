@@ -48,9 +48,37 @@ _Top-level Frames_, i.e, Frames placed directly on the `Canvas`, should include 
 ## Libraries
 Set up your `Library` in a single or separate `Files`. Consider breaking up your `Library` into separate `Files` if you need to support multiple platforms, themes, products, brands or whether access to certain `Componenets` or `Styles` should be limited only to specific collaborators.
 
+## Variables
+
+Use `Variables` to create a design token structure for managing and maintaining alignment and consistency in a design system. 
+
+Use the following syntax:
+
+```
+[Asset]-[Type]-[Property]-[State]
+```
+
+* Use full words instead of abbreviations.
+* Use generic, platform- and brand-agnostic names.
+
+## Styles
+
+Group `Styles` by color scheme, product theme, function, effect or hue. Avoid creating distinct entities for every single style in use. Document rarely used styles as exceptions instead. 
+
 ## Components
 
-Use a semantic naming convention to give `Components` and `Variant Properties` descriptive names that convey function and meaning. Follow a consistent naming structure that aligns with your codebase.
+* Take a modular approach to building components, for example by following Atomic Design Principles.
+* Use a semantic naming convention to give `Components` and `Variant Properties` descriptive names that convey function and meaning. 
+* Follow a consistent naming structure that aligns with your codebase.
+
+## Versioning
+
+Set up a change log to track `Library` updates.
+
+Best practices:
+* Follow a [semantic versioning](https://en.wikipedia.org/wiki/Software_versioning#Semantic_versioning) version scheme.
+* Give people time to transition and adopt changes.
+* Establish a contribution process, for example through surveys or comments.
 
 ## License
 
