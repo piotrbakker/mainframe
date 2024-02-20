@@ -39,7 +39,7 @@ Establish a consistent file naming convention to make it easy to identify and lo
 
 ## Pages
 
-Use `Pages` to separate major sections or user flows within your product. 
+Use `Pages` to separate rounds of design iterations, or different sections and user flows within your product. 
 
 ## Frames
 
