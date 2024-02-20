@@ -67,7 +67,7 @@ Group `Styles` by color scheme, product theme, function, effect or hue. Avoid cr
 
 ## Components
 
-* Take a modular approach to building components, for example by following Atomic Design Principles.
+* Take a modular approach to building components, for example by following [Atomic Design Principles](https://atomicdesign.bradfrost.com/chapter-2/).
 * Use a semantic naming convention to give `Components` and `Variant Properties` descriptive names that convey function and meaning. 
 * Follow a consistent naming structure that aligns with your codebase.
 
